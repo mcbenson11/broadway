@@ -4,7 +4,7 @@ body {
 }
 
 .flatironphoto {
-  background-image: url(resoures/images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 p {
@@ -13,4 +13,5 @@ p {
 
 .toplink {
   font-size: 18px;
+  color: white;
 }
